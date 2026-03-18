@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="assets/logo.png" width="150" alt="tflow logo" />
+</p>
+
 # tflow - AI-Powered E2E Test Generation CLI
+
+[中文](README_zh.md) | English
 
 `tflow` is a command-line interface that uses Claude AI to automatically analyze your frontend project, detect core workflows, and generate reliable Playwright E2E tests.
 

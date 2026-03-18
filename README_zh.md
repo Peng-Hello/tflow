@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="assets/logo.png" width="150" alt="tflow logo" />
+</p>
+
 # tflow
+
+[English](README.md) | 中文
 
 > 🧪 AI 驱动的端到端测试自动生成 CLI 工具
 
